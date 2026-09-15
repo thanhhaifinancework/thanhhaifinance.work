@@ -1,7 +1,3 @@
-# thanhhaifinance.work
-Đồng hành cùng bạn trên hành trình tự do tài chính
-[PVT_Bao_Cao_Khuyen_Nghi.html](https://github.com/user-attachments/files/32222094/PVT_Bao_Cao_Khuyen_Nghi.html)
-<!DOCTYPE html>
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
